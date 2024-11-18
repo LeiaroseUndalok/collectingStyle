@@ -28,5 +28,5 @@ TechFolio Mobile App.
 <img src="assets/images/screenshot/login.jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/TaskTab.jng">  
+<img src="assets/images/screenshot/TaskTab.jpg">  
 
