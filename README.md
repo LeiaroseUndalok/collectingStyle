@@ -23,9 +23,11 @@ TechFolio Mobile App.
 
 # Sign Up Screen
 <img src="assets/images/screenshot/signUp.jpg">  
+<img src="assets/images/screenshot/signUp@.jpg"> 
 
 # Sign In Screen
 <img src="assets/images/screenshot/login.jpg">  
+<img src="assets/images/screenshot/signIn2.jpg">  
 
 # Tabs Screen
 <img src="assets/images/screenshot/TaskTab.jpg">  
