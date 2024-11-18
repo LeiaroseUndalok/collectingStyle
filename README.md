@@ -31,7 +31,8 @@ TechFolio Mobile App.
 
 # Tabs Screen
 <img src="assets/images/screenshot/TaskTab.jpg">  
-
+<img src="assets/images/screenshot/calendarTab.jpg"> 
+<img src="assets/images/screenshot/NoteTab.jpg"> 
 #WalkThrough
 
 *https://youtu.be/ateE7QUNBc8
